@@ -1,4 +1,4 @@
-package part4.loops;
+package Part2ConditionnalStatements;
 
 public class Ex01PrintWords {
     public static void main(String[] args) {
